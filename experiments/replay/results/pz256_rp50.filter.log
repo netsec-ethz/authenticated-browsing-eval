@@ -1,0 +1,652 @@
+Forwarding on 4 ports to same ingress port, dst 98:03:9B:79:BB:54 (workers=32)
+[stats] worker_rx=0 worker_tx=0 reject=0 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=1 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=2 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=3 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] worker_rx=0 worker_tx=0 reject=0 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=1 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=2 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=3 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] worker_rx=0 worker_tx=0 reject=0 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=1 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=2 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=3 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] worker_rx=0 worker_tx=0 reject=0 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=1 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=2 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=3 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] worker_rx=0 worker_tx=0 reject=0 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=1 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=2 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=3 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] worker_rx=0 worker_tx=0 reject=0 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=1 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=2 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=3 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] worker_rx=0 worker_tx=0 reject=0 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=1 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=2 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=3 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] worker_rx=0 worker_tx=0 reject=0 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=1 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=2 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=3 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] worker_rx=0 worker_tx=0 reject=0 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=1 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=2 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=3 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] worker_rx=0 worker_tx=0 reject=0 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=1 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=2 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=3 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] worker_rx=0 worker_tx=0 reject=0 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=1 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=2 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=3 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] worker_rx=0 worker_tx=0 reject=0 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=1 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=2 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=3 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] worker_rx=0 worker_tx=0 reject=0 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=1 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=2 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=3 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] worker_rx=0 worker_tx=0 reject=0 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=1 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=2 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=3 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] worker_rx=0 worker_tx=0 reject=0 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=1 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=2 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=3 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] worker_rx=0 worker_tx=0 reject=0 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=1 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=2 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=3 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] worker_rx=0 worker_tx=0 reject=0 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=1 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=2 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=3 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] worker_rx=0 worker_tx=0 reject=0 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=1 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=2 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=3 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] worker_rx=0 worker_tx=0 reject=0 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=1 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=2 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=3 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] worker_rx=0 worker_tx=0 reject=0 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=1 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=2 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=3 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] worker_rx=0 worker_tx=0 reject=0 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=1 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=2 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=3 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] worker_rx=0 worker_tx=0 reject=0 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=1 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=2 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=3 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] worker_rx=0 worker_tx=0 reject=0 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=1 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=2 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=3 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] worker_rx=0 worker_tx=0 reject=0 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=1 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=2 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=3 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] worker_rx=0 worker_tx=0 reject=0 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=1 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=2 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=3 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] worker_rx=0 worker_tx=0 reject=0 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=1 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=2 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=3 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] worker_rx=0 worker_tx=0 reject=0 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=1 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=2 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=3 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] worker_rx=0 worker_tx=0 reject=0 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=1 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=2 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=3 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] worker_rx=0 worker_tx=0 reject=0 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=1 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=2 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=3 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] worker_rx=0 worker_tx=0 reject=0 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=1 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=2 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=3 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] worker_rx=0 worker_tx=0 reject=0 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=1 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=2 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=3 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] worker_rx=0 worker_tx=0 reject=0 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=1 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=2 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=3 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] worker_rx=0 worker_tx=0 reject=0 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=1 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=2 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=3 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] worker_rx=0 worker_tx=0 reject=0 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=1 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=2 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=3 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] worker_rx=0 worker_tx=0 reject=0 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=1 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=2 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=3 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] worker_rx=0 worker_tx=0 reject=0 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=1 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=2 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=3 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] worker_rx=0 worker_tx=0 reject=0 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=1 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=2 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=3 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] worker_rx=0 worker_tx=0 reject=0 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=1 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=2 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=3 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] worker_rx=0 worker_tx=0 reject=0 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=1 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=2 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=3 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] worker_rx=0 worker_tx=0 reject=0 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=1 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=2 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=3 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] worker_rx=0 worker_tx=0 reject=0 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=1 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=2 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=3 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] worker_rx=0 worker_tx=0 reject=0 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=1 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=2 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=3 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] worker_rx=0 worker_tx=0 reject=0 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=1 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=2 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=3 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] worker_rx=0 worker_tx=0 reject=0 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=1 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=2 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=3 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] worker_rx=0 worker_tx=0 reject=0 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=1 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=2 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=3 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] worker_rx=0 worker_tx=0 reject=0 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=1 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=2 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=3 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] worker_rx=0 worker_tx=0 reject=0 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=1 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=2 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=3 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] worker_rx=0 worker_tx=0 reject=0 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=1 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=2 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=3 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] worker_rx=0 worker_tx=0 reject=0 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=1 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=2 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=3 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] worker_rx=0 worker_tx=0 reject=0 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=1 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=2 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=3 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] worker_rx=0 worker_tx=0 reject=0 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=1 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=2 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=3 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] worker_rx=0 worker_tx=0 reject=0 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=1 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=2 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=3 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] worker_rx=0 worker_tx=0 reject=0 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=1 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=2 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=3 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] worker_rx=0 worker_tx=0 reject=0 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=1 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=2 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=3 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] worker_rx=0 worker_tx=0 reject=0 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=1 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=2 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=3 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] worker_rx=0 worker_tx=0 reject=0 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=1 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=2 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=3 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] worker_rx=0 worker_tx=0 reject=0 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=1 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=2 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=3 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] worker_rx=0 worker_tx=0 reject=0 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=1 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=2 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=3 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] worker_rx=0 worker_tx=0 reject=0 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=1 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=2 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=3 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] worker_rx=0 worker_tx=0 reject=0 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=1 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=2 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=3 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] worker_rx=0 worker_tx=0 reject=0 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=1 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=2 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=3 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] worker_rx=0 worker_tx=0 reject=0 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=1 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=2 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=3 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] worker_rx=0 worker_tx=0 reject=0 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=1 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=2 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=3 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] worker_rx=0 worker_tx=0 reject=0 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=1 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=2 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=3 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] worker_rx=0 worker_tx=0 reject=0 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=1 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=2 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=3 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] worker_rx=0 worker_tx=0 reject=0 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=1 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=2 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=3 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] worker_rx=0 worker_tx=0 reject=0 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=1 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=2 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=3 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] worker_rx=0 worker_tx=0 reject=0 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=1 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=2 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=3 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] worker_rx=0 worker_tx=0 reject=0 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=1 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=2 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=3 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] worker_rx=0 worker_tx=0 reject=0 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=1 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=2 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=3 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] worker_rx=0 worker_tx=0 reject=0 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=1 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=2 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=3 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] worker_rx=0 worker_tx=0 reject=0 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=1 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=2 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=3 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] worker_rx=0 worker_tx=0 reject=0 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=1 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=2 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=3 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] worker_rx=0 worker_tx=0 reject=0 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=1 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=2 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=3 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] worker_rx=0 worker_tx=0 reject=0 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=1 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=2 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=3 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] worker_rx=0 worker_tx=0 reject=0 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=1 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=2 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=3 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] worker_rx=0 worker_tx=0 reject=0 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=1 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=2 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=3 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] worker_rx=0 worker_tx=0 reject=0 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=1 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=2 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=3 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] worker_rx=0 worker_tx=0 reject=0 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=1 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=2 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=3 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] worker_rx=0 worker_tx=0 reject=0 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=1 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=2 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=3 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] worker_rx=0 worker_tx=0 reject=0 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=1 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=2 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=3 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] worker_rx=0 worker_tx=0 reject=0 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=1 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=2 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=3 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] worker_rx=0 worker_tx=0 reject=0 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=1 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=2 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=3 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] worker_rx=0 worker_tx=0 reject=0 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=1 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=2 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=3 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] worker_rx=0 worker_tx=0 reject=0 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=1 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=2 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=3 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] worker_rx=0 worker_tx=0 reject=0 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=1 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=2 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=3 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] worker_rx=0 worker_tx=0 reject=0 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=1 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=2 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=3 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] worker_rx=0 worker_tx=0 reject=0 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=1 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=2 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=3 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] worker_rx=0 worker_tx=0 reject=0 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=1 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=2 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=3 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] worker_rx=0 worker_tx=0 reject=0 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=1 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=2 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=3 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] worker_rx=0 worker_tx=0 reject=0 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=1 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=2 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=3 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] worker_rx=0 worker_tx=0 reject=0 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=1 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=2 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=3 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] worker_rx=0 worker_tx=0 reject=0 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=1 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=2 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=3 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] worker_rx=0 worker_tx=0 reject=0 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=1 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=2 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=3 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] worker_rx=0 worker_tx=0 reject=0 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=1 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=2 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=3 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] worker_rx=0 worker_tx=0 reject=0 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=1 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=2 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=3 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] worker_rx=0 worker_tx=0 reject=0 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=1 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=2 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=3 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] worker_rx=0 worker_tx=0 reject=0 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=1 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=2 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=3 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] worker_rx=0 worker_tx=0 reject=0 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=1 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=2 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=3 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] worker_rx=0 worker_tx=0 reject=0 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=1 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=2 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=3 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] worker_rx=0 worker_tx=0 reject=0 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=1 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=2 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=3 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] worker_rx=0 worker_tx=0 reject=0 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=1 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=2 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=3 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] worker_rx=0 worker_tx=0 reject=0 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=1 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=2 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=3 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] worker_rx=0 worker_tx=0 reject=0 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=1 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=2 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=3 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] worker_rx=0 worker_tx=0 reject=0 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=1 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=2 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=3 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] worker_rx=0 worker_tx=0 reject=0 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=1 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=2 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=3 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] worker_rx=0 worker_tx=0 reject=0 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=1 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=2 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=3 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] worker_rx=0 worker_tx=0 reject=0 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=1 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=2 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=3 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] worker_rx=0 worker_tx=0 reject=0 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=1 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=2 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=3 ipkts=0 opkts=0 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] worker_rx=14649549 worker_tx=7324691 reject=7324442 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=2874403 opkts=1436667 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=315928 avg=358394 max=384681 n=8]
+[stats] port=1 ipkts=2427502 opkts=1213283 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=271896 avg=302765 max=323816 n=8]
+[stats] port=2 ipkts=5507719 opkts=2753311 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=594808 avg=687304 max=775008 n=8]
+[stats] port=3 ipkts=3870275 opkts=1934633 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=416408 avg=482730 max=522152 n=8]
+[stats] worker_rx=72563243 worker_tx=36281983 reject=36281392 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=20999407 opkts=10499291 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=2082296 avg=2265846 max=2369384 n=8]
+[stats] port=1 ipkts=20552504 opkts=10275822 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=2185984 avg=2265303 max=2364328 n=8]
+[stats] port=2 ipkts=23665305 opkts=11832172 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=1980600 avg=2269764 max=2367016 n=8]
+[stats] port=3 ipkts=22027899 opkts=11013470 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=1962816 avg=2269491 max=2366392 n=8]
+[stats] worker_rx=72513008 worker_tx=36256790 reject=36256216 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=39113231 opkts=19556240 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=2082608 avg=2264103 max=2368944 n=8]
+[stats] port=1 ipkts=38666387 opkts=19332711 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=2110304 avg=2264371 max=2363016 n=8]
+[stats] port=2 ipkts=41807753 opkts=20903468 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=2094680 avg=2267721 max=2365392 n=8]
+[stats] port=3 ipkts=40170412 opkts=20084853 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=2019624 avg=2267931 max=2365136 n=8]
+[stats] worker_rx=72496208 worker_tx=36248408 reject=36247841 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=57226756 opkts=28613091 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=2078832 avg=2264321 max=2370760 n=8]
+[stats] port=1 ipkts=56779735 opkts=28389571 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=2098008 avg=2264101 max=2365160 n=8]
+[stats] port=2 ipkts=59941858 opkts=29970572 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=2191504 avg=2266863 max=2364776 n=8]
+[stats] port=3 ipkts=58304550 opkts=29151957 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=2096760 avg=2266741 max=2363632 n=8]
+[stats] worker_rx=72491570 worker_tx=36246013 reject=36245520 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=75339665 opkts=37669586 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=2074482 avg=2264071 max=2368496 n=8]
+[stats] port=1 ipkts=74892657 opkts=37446068 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=2179072 avg=2264144 max=2365248 n=8]
+[stats] port=2 ipkts=78074691 opkts=39037068 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=2185328 avg=2266695 max=2365648 n=8]
+[stats] port=3 ipkts=76437369 opkts=38218467 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=2055080 avg=2266536 max=2363632 n=8]
+[stats] worker_rx=72482142 worker_tx=36241374 reject=36240726 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=93452888 opkts=46726334 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=2072640 avg=2264062 max=2369360 n=8]
+[stats] port=1 ipkts=93005926 opkts=46502774 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=2207368 avg=2264272 max=2360152 n=8]
+[stats] port=2 ipkts=96203564 opkts=48101607 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=2187184 avg=2265961 max=2362328 n=8]
+[stats] port=3 ipkts=94566340 opkts=47283008 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=2052544 avg=2265972 max=2362432 n=8]
+[stats] worker_rx=72476001 worker_tx=36238308 reject=36237756 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=111568507 opkts=55783999 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=2056848 avg=2264443 max=2368704 n=8]
+[stats] port=1 ipkts=111121486 opkts=55560581 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=2192264 avg=2264304 max=2362656 n=8]
+[stats] port=2 ipkts=114325483 opkts=57162599 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=2221320 avg=2265320 max=2363888 n=8]
+[stats] port=3 ipkts=112688315 opkts=56344013 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=2079736 avg=2265433 max=2362424 n=8]
+[stats] worker_rx=72463647 worker_tx=36232112 reject=36231532 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=129681500 opkts=64840785 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=2081928 avg=2264257 max=2368432 n=8]
+[stats] port=1 ipkts=129234439 opkts=64617101 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=2204248 avg=2264315 max=2365512 n=8]
+[stats] port=2 ipkts=132443342 opkts=66221615 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=2192256 avg=2264707 max=2363120 n=8]
+[stats] port=3 ipkts=130806272 opkts=65403066 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=2022512 avg=2264676 max=2361008 n=8]
+[stats] worker_rx=72466575 worker_tx=36233559 reject=36233059 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=147796258 opkts=73898221 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=2075488 avg=2264189 max=2369400 n=8]
+[stats] port=1 ipkts=147349176 opkts=73674567 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=2213544 avg=2264185 max=2363368 n=8]
+[stats] port=2 ipkts=150562724 opkts=75281367 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=2186600 avg=2264917 max=2363920 n=8]
+[stats] port=3 ipkts=148925638 opkts=74462881 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=2081712 avg=2265030 max=2362160 n=8]
+[stats] worker_rx=72464097 worker_tx=36232303 reject=36231735 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=165912083 opkts=82956227 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=2111952 avg=2264587 max=2368256 n=8]
+[stats] port=1 ipkts=165465034 opkts=82732574 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=2188688 avg=2264494 max=2364264 n=8]
+[stats] port=2 ipkts=168677551 opkts=84338868 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=2198168 avg=2264514 max=2364408 n=8]
+[stats] port=3 ipkts=167040656 opkts=83520389 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=2083912 avg=2264417 max=2361569 n=8]
+[stats] worker_rx=72455792 worker_tx=36228223 reject=36227598 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=184025163 opkts=92012868 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=2058800 avg=2264251 max=2368624 n=8]
+[stats] port=1 ipkts=183578000 opkts=91789101 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=2205456 avg=2263897 max=2364520 n=8]
+[stats] port=2 ipkts=186793705 opkts=93397037 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=2195360 avg=2264368 max=2362096 n=8]
+[stats] port=3 ipkts=185156909 opkts=92578657 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=2066584 avg=2264458 max=2362584 n=8]
+[stats] worker_rx=72457363 worker_tx=36228931 reject=36228428 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=202140638 opkts=101070484 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=2097568 avg=2264299 max=2369584 n=8]
+[stats] port=1 ipkts=201693425 opkts=100846872 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=2204456 avg=2264499 max=2361736 n=8]
+[stats] port=2 ipkts=204908066 opkts=102454226 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=2178104 avg=2264219 max=2362936 n=8]
+[stats] port=3 ipkts=203271277 opkts=101635898 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=2109984 avg=2264153 max=2362048 n=8]
+[stats] worker_rx=72456989 worker_tx=36228764 reject=36228186 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=220253810 opkts=110127336 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=2072976 avg=2264054 max=2369232 n=8]
+[stats] port=1 ipkts=219806534 opkts=109903566 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=2203368 avg=2264337 max=2360680 n=8]
+[stats] port=2 ipkts=223022285 opkts=111511440 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=2205464 avg=2264439 max=2362736 n=8]
+[stats] port=3 ipkts=221385531 opkts=110693051 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=2103864 avg=2264293 max=2361120 n=8]
+[stats] worker_rx=72458632 worker_tx=36229535 reject=36229044 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=238368113 opkts=119184550 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=2070488 avg=2264433 max=2368528 n=8]
+[stats] port=1 ipkts=237920753 opkts=118960666 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=2208344 avg=2264247 max=2362792 n=8]
+[stats] port=2 ipkts=241137094 opkts=120568896 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=2190352 avg=2264271 max=2360904 n=8]
+[stats] port=3 ipkts=239500366 opkts=119750514 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=2069384 avg=2264378 max=2360544 n=8]
+[stats] worker_rx=72452920 worker_tx=36226687 reject=36226240 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=256480114 opkts=128240661 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=2081800 avg=2263762 max=2368472 n=8]
+[stats] port=1 ipkts=256032787 opkts=128016812 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=2201560 avg=2263901 max=2362472 n=8]
+[stats] port=2 ipkts=259252296 opkts=129626579 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=2202816 avg=2264342 max=2362016 n=8]
+[stats] port=3 ipkts=257615756 opkts=128808346 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=2078872 avg=2264610 max=2361184 n=8]
+[stats] worker_rx=72458120 worker_tx=36229387 reject=36228784 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=274593452 opkts=137297398 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=2057424 avg=2264175 max=2369336 n=8]
+[stats] port=1 ipkts=274146044 opkts=137073491 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=2188288 avg=2264251 max=2361936 n=8]
+[stats] port=2 ipkts=277366840 opkts=138683915 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=2213792 avg=2264490 max=2361984 n=8]
+[stats] port=3 ipkts=275730306 opkts=137865674 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=2043248 avg=2264349 max=2361664 n=8]
+[stats] worker_rx=72459939 worker_tx=36230396 reject=36229546 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=292707829 opkts=146354639 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=2108960 avg=2264544 max=2368736 n=8]
+[stats] port=1 ipkts=292260563 opkts=146130717 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=2202416 avg=2264208 max=2362512 n=8]
+[stats] port=2 ipkts=295482203 opkts=147741667 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=2190056 avg=2264394 max=2362664 n=8]
+[stats] port=3 ipkts=293845718 opkts=146923387 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=2050960 avg=2264346 max=2362600 n=8]
+[stats] worker_rx=72452268 worker_tx=36226309 reject=36225983 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=310821381 opkts=155411507 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=2105488 avg=2264131 max=2369272 n=8]
+[stats] port=1 ipkts=310373882 opkts=155187540 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=2188088 avg=2264207 max=2361840 n=8]
+[stats] port=2 ipkts=313595468 opkts=156798344 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=2188583 avg=2264028 max=2362856 n=8]
+[stats] port=3 ipkts=311959092 opkts=155980149 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=2090024 avg=2264166 max=2363072 n=8]
+[stats] worker_rx=72455767 worker_tx=36228182 reject=36227616 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=328934162 opkts=164467931 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=2077992 avg=2264197 max=2369374 n=8]
+[stats] port=1 ipkts=328486616 opkts=164243950 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=2206464 avg=2264155 max=2362728 n=8]
+[stats] port=2 ipkts=331709638 opkts=165855514 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=2194560 avg=2264366 max=2361504 n=8]
+[stats] port=3 ipkts=330073342 opkts=165037383 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=2074704 avg=2264252 max=2361184 n=8]
+[stats] worker_rx=50062582 worker_tx=25031307 reject=25031028 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=341449088 opkts=170726042 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=1421056 avg=1564379 max=1637328 n=8]
+[stats] port=1 ipkts=341000448 opkts=170501523 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=1520464 avg=1564589 max=1632680 n=8]
+[stats] port=2 ipkts=344220672 opkts=172111647 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=1518584 avg=1564269 max=1632352 n=8]
+[stats] port=3 ipkts=342583168 opkts=171292924 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=1428424 avg=1564585 max=1631360 n=8]
+[stats] worker_rx=0 worker_tx=0 reject=0 tx_full=0 (delta, 1s)
+[stats] port=0 ipkts=341449088 opkts=170726042 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=1 ipkts=341000448 opkts=170501523 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=2 ipkts=344220672 opkts=172111647 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+[stats] port=3 ipkts=342583168 opkts=171292924 imissed=0 ierr=0 oerr=0 rx_nombuf=0 worker_rx[min=0 avg=0 max=0 n=8]
+Exiting

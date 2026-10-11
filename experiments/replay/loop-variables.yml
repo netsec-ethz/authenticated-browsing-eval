@@ -1,0 +1,4 @@
+packet_size: [92, 256, 1500]
+# % of offered traffic that is replay, rest is legit. rate is fixed at -r 160000.
+replay_pct: [1, 5, 20, 50, 80, 99]
+cores: [32]

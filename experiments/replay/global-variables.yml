@@ -1,0 +1,12 @@
+git:
+  moongen:
+    repo: https://github.com/tumi8/MoonGen.git
+    commit: 6fa2b8c87af98951579cb63a44e15e7d0360f212
+  ab:
+    repo: https://github.com/netsec-ethz/authenticated-browsing.git
+    commit: 72c34ae6f6702490342def376a3f569053900db8
+rate: 160000
+duration: 30
+cores: 32
+threads: 16
+flows: 100

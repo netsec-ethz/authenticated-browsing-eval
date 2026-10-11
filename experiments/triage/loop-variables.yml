@@ -1,0 +1,6 @@
+packet_size: [92, 256, 1500]
+attack_fraction: [1, 5, 20, 50, 80, 99]
+# Pinned so stale lists from other sweeps (pos keeps loop vars) can't multiply the run.
+# The filter reads cores from here via get_parameter.
+cores: [32]
+attack_type: [forged]

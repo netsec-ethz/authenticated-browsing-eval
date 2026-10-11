@@ -1,0 +1,2 @@
+# HTTP server (snorlax), kernel stack only. NIC towards pikachu's port 3 (via the switch).
+intfs: "ens785f1" 

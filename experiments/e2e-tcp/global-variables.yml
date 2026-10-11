@@ -1,0 +1,42 @@
+git:
+  moongen:
+    repo: https://github.com/tumi8/MoonGen.git
+    commit: 6fa2b8c87af98951579cb63a44e15e7d0360f212
+  ab:
+    repo: https://github.com/netsec-ethz/authenticated-browsing.git
+    commit: 72c34ae6f6702490342def376a3f569053900db8
+  wrk2:
+    repo: https://github.com/giltene/wrk2.git
+    commit: 44a94c17d8e6a0bac8559b53da76848e430cb7a7
+
+# wrk2 sweep parameters
+duration: 30
+rate: 20000
+iters: 50
+wrk_threads: 16
+wrk_connections: 400
+
+# attack loadgen
+attack_rate: 160000
+
+threads: 15
+flows: 6000
+# Validator NIC drops above ~29 Mpps/port at 90 B; caps only the port that also carries HTTP.
+http_out_mpps: 28
+plain_fwd_queues: 4
+
+# fixed lcores across both sockets instead of run_ab.sh's auto-derived list
+val_lcores: "0-16,18-34"
+
+# Static addresses and neighbor entries, so we don't rely on NDP across the validator bridge.
+snorlax_v6: "2001:db8::3"
+snorlax_mac: "9c:69:b4:69:61:35"  # snorlax E810 (ens785f1)
+wrkout_v6: "2001:db8::1"
+# The validator rewrites bridged src MACs to its HTTP-wire port's MAC, so the switch learns
+# that on pikachu's uplink. Same MAC on the TAP lets replies be switched, not flooded.
+# The TAP is on a direct cable, so the duplicate MAC never shares a segment.
+wrkout_mac: "3c:fd:fe:9e:93:41"  # pikachu 0000:05:00.1
+
+# HTTP target served by snorlax
+http_path: "/8k"
+http_payload_bytes: 8192

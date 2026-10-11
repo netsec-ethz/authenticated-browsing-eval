@@ -1,0 +1,8 @@
+# raw_no_attack: RAW_FORWARD, no crypto. validate_no_attack: PMAC verify + dedup + strip.
+# validate_with_attack: same, plus forged AB traffic from bulbasaur.
+mode: [raw_no_attack, validate_no_attack, validate_with_attack]
+# pos keeps loop vars from other experiments; pin them so they don't multiply iterations
+cores: [32]
+attack_type: [none]
+attack_fraction: [0]
+packet_size: [90, 256, 512]
